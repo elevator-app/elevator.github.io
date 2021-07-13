@@ -1,0 +1,75 @@
+:root {
+  --chicago: #5d5d5d;
+  --fuchsia: #b76bd1;
+  --white: #ffffff;
+
+  --font-size-25_3px: 25.3px;
+  --font-size-32_9px: 32.9px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 30px;
+  --font-size-xxs: 15px;
+
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-rota-black: "Rota-Black", Helvetica;
+  --font-family-rota-bold: "Rota-Bold", Helvetica;
+  --font-family-rota-extrablack: "Rota-ExtraBlack", Helvetica;
+  --font-family-rota-medium: "Rota-Medium", Helvetica;
+  --font-family-rota-semibold: "Rota-SemiBold", Helvetica;
+}
+.rota-medium-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+.rota-black-chicago-30px {
+  color: var(--chicago);
+  font-family: var(--font-family-rota-black);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+.rota-medium-chicago-16px {
+  color: var(--chicago);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+.rota-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+.rota-black-white-29px {
+  color: var(--white);
+  font-family: var(--font-family-rota-black);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 900;
+}
+.rota-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+.rota-black-chicago-60px {
+  color: var(--chicago);
+  font-family: var(--font-family-rota-black);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 900;
+}
+.rota-medium-white-32-9px {
+  color: var(--white);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-32_9px);
+  font-style: normal;
+  font-weight: 500;
+}

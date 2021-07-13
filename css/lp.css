@@ -1,0 +1,668 @@
+/* screen - lp */
+
+.lp {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid #707070;
+  display: flex;
+  flex-direction: column;
+  height: 3015px;
+  overflow: hidden;
+  width: 1920px;
+}
+.lp .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.5px;
+  margin-left: 15px;
+  min-height: 35px;
+  min-width: 103px;
+  white-space: nowrap;
+}
+.lp .connect {
+  letter-spacing: 0.60px;
+  line-height: 18px;
+  margin-right: 0.23px;
+  min-height: 31px;
+  min-width: 115px;
+  white-space: nowrap;
+}
+.lp .contact-us {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -5px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+.lp .dont-get-ghosted {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-bottom: -5px;
+  min-height: 31px;
+  min-width: 233px;
+  white-space: nowrap;
+}
+.lp .elevator {
+  left: 347px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+.lp .elevator-1 {
+  color: var(--white);
+  font-family: var(--font-family-rota-extrablack);
+  font-size: 102.3px;
+  font-weight: 950;
+  left: 274px;
+  letter-spacing: 35.81px;
+  line-height: 122.8px;
+  position: absolute;
+  top: 348px;
+  white-space: nowrap;
+}
+.lp .elevatorapp {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 15px;
+  margin-top: 0.76px;
+  min-height: 17px;
+  min-width: 95px;
+  white-space: nowrap;
+}
+.lp .ellipse-17 {
+  background-color: var(--white);
+  border-radius: 1.731744408607483px;
+  height: 3px;
+  left: 7px;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+.lp .find {
+  letter-spacing: 0.60px;
+  line-height: 18px;
+  margin-right: 0.46px;
+  min-height: 31px;
+  min-width: 57px;
+  white-space: nowrap;
+}
+.lp .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 209px;
+  min-height: 134px;
+  width: 190px;
+}
+.lp .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 134px;
+  width: 160px;
+}
+.lp .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 206px;
+  min-height: 134px;
+  width: 166px;
+}
+.lp .flex-col-3 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -3px;
+  min-height: 95px;
+  width: 140px;
+}
+.lp .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -30px;
+  min-height: 384px;
+  width: 1351px;
+}
+.lp .flex-col-5 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 185px;
+  min-height: 78px;
+  width: 233px;
+}
+.lp .flex-row {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 143px;
+  margin-top: 36px;
+  min-width: 1351px;
+}
+.lp .group-109 {
+  background-image: url(../img/group-108@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 506px;
+  margin-bottom: 0;
+  width: 1922px;
+}
+.lp .group-111 {
+  align-items: flex-end;
+  display: flex;
+  overflow: hidden;
+  width: 1922px;
+}
+.lp .group-113 {
+  align-items: flex-start;
+  display: flex;
+  height: 513px;
+  margin-bottom: -266.72px;
+  margin-left: -11px;
+  padding: 3.4px 13.0px;
+  width: 1948px;
+}
+.lp .group-115 {
+  align-items: flex-end;
+  display: flex;
+  height: 244px;
+  overflow: hidden;
+  width: 1922px;
+}
+.lp .group-116 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 296px;
+  position: absolute;
+  top: 0;
+  width: 1922px;
+}
+.lp .group-125 {
+  height: 14px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 263px;
+  width: 304px;
+}
+.lp .group-128 {
+  align-items: flex-start;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 136px;
+  position: absolute;
+  top: 0;
+}
+.lp .group-129 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0.87px;
+  margin-top: 28px;
+  min-width: 134px;
+}
+.lp .group-130 {
+  align-items: center;
+  display: flex;
+  margin-bottom: 16.26px;
+  margin-left: 25px;
+  min-width: 122px;
+}
+.lp .group-131 {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 18.0px;
+  margin-left: 25px;
+  min-width: 185px;
+}
+.lp .group-132 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 15.28px;
+  margin-left: 25px;
+  min-width: 131px;
+}
+.lp .group-154 {
+  background-image: url(../img/group-153@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 874px;
+  margin-bottom: 0;
+  width: 1920px;
+}
+.lp .group-156 {
+  align-items: flex-end;
+  display: flex;
+  overflow: hidden;
+  padding: 0 0.0px;
+  width: 1920px;
+}
+.lp .group-158 {
+  align-items: flex-end;
+  display: flex;
+  height: 886px;
+  left: -13px;
+  padding: 5.9px 12.9px;
+  position: absolute;
+  top: 10px;
+  width: 1946px;
+}
+.lp .group-168 {
+  height: 196px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1349px;
+}
+.lp .group-192 {
+  align-items: flex-end;
+  background-image: url(../img/path-31@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 79px;
+  padding: 8.0px 79.2px;
+  width: 284px;
+}
+.lp .group-193 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 79px;
+  left: 278px;
+  min-width: 284px;
+  position: absolute;
+  top: 2359px;
+}
+.lp .group-194 {
+  align-items: flex-end;
+  background-image: url(../img/path-32@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  left: 634px;
+  min-height: 79px;
+  padding: 8.0px 47.8px;
+  position: absolute;
+  top: 2359px;
+  width: 284px;
+}
+.lp .group-195 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  min-width: 133px;
+}
+.lp .group-201 {
+  align-items: flex-end;
+  display: flex;
+  height: 92px;
+  left: 885px;
+  min-width: 761px;
+  position: absolute;
+  top: 53px;
+}
+.lp .group-202 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -3px;
+  margin-top: 54px;
+  min-width: 1922px;
+}
+.lp .how-it-works {
+  letter-spacing: 3.00px;
+  line-height: 120.0px;
+  min-height: 59px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.lp .i-am-seeking-a-job {
+  color: var(--white);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+  margin-top: 4px;
+  min-height: 18px;
+  min-width: 124px;
+  white-space: nowrap;
+}
+.lp .icon-awesome-ghost {
+  height: 113px;
+  left: 1210px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 85px;
+}
+.lp .icon-awesome-phone-alt {
+  height: 20px;
+  object-fit: cover;
+  width: 20px;
+}
+.lp .icon-material-phone-android {
+  height: 113px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 72px;
+}
+.lp .icon-simple-instagram {
+  height: 22px;
+  object-fit: cover;
+  width: 22px;
+}
+.lp .icon-zocial-email {
+  height: 17px;
+  object-fit: cover;
+  width: 25px;
+}
+.lp .landing-page {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 276px;
+  min-height: 534px;
+  position: absolute;
+  top: 1125px;
+  width: 1371px;
+}
+.lp .no-more-ghosting {
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-right: 0.31px;
+  margin-top: 13px;
+  min-height: 34px;
+  min-width: 160px;
+  width: 160px;
+}
+.lp .overlap-group {
+  height: 2681px;
+  margin-left: -0.04px;
+  margin-top: -16px;
+  position: relative;
+  width: 2221px;
+}
+.lp .overlap-group1 {
+  height: 296px;
+  position: relative;
+  width: 1922px;
+}
+.lp .overlap-group1-1 {
+  height: 196px;
+  margin-left: 1.41px;
+  margin-top: 129px;
+  position: relative;
+  width: 1349px;
+}
+.lp .overlap-group2 {
+  height: 37px;
+  position: relative;
+  width: 136px;
+}
+.lp .path-30 {
+  height: 21px;
+  object-fit: cover;
+  width: 17px;
+}
+.lp .path-38 {
+  height: 0;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 0;
+}
+.lp .path-40 {
+  height: 38px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 39px;
+}
+.lp .path-41 {
+  height: 113px;
+  left: 420px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 125px;
+}
+.lp .phone {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 15px;
+  margin-top: 0.76px;
+  min-height: 17px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+.lp .record {
+  letter-spacing: 0.60px;
+  line-height: 18px;
+  margin-right: 0.51px;
+  min-height: 31px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+.lp .recruiter {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-rota-black);
+  font-size: 35px;
+  font-weight: 900;
+  letter-spacing: 1.75px;
+  line-height: 42px;
+  margin-bottom: -7px;
+  margin-left: 0.23px;
+  min-height: 35px;
+  min-width: 152px;
+  white-space: nowrap;
+}
+.lp .recruiter-1 {
+  background-image: url(../img/icon-open-magnifying-glass@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 113px;
+  left: 1088px;
+  position: absolute;
+  top: 1325px;
+  width: 113px;
+}
+.lp .rectangle-51 {
+  background-color: var(--white);
+  height: 52px;
+  margin-left: 1.14px;
+  width: 1921px;
+}
+.lp .rectangle-56 {
+  height: 48px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 48px;
+}
+.lp .rectangle-65 {
+  background-color: var(--fuchsia);
+  height: 681px;
+  left: 0;
+  position: absolute;
+  top: 1888px;
+  width: 1920px;
+}
+.lp .rectangle-66 {
+  height: 1275px;
+  left: 998px;
+  object-fit: cover;
+  position: absolute;
+  top: 1405px;
+  width: 850px;
+}
+.lp .rectangle-79 {
+  height: 85px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 85px;
+}
+.lp .rectangle-80 {
+  height: 1218px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1760px;
+}
+.lp .seeker {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-rota-black);
+  font-size: 35px;
+  font-weight: 900;
+  letter-spacing: 1.75px;
+  line-height: 42px;
+  margin-bottom: -7px;
+  margin-right: 0.24px;
+  min-height: 35px;
+  min-width: 114px;
+  white-space: nowrap;
+}
+.lp .span0 {
+  letter-spacing: 0.66px;
+}
+.lp .span0-1 {
+  letter-spacing: 0.84px;
+}
+.lp .span1 {
+  letter-spacing: 0.80px;
+}
+.lp .text-10 {
+  height: 99px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-top: 4px;
+  min-height: 99px;
+  min-width: 190px;
+  width: 190px;
+}
+.lp .text-11 {
+  height: 99px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-top: 4px;
+  min-height: 99px;
+  min-width: 166px;
+  text-align: center;
+  width: 166px;
+}
+.lp .text-12 {
+  height: 173px;
+  left: 277px;
+  letter-spacing: 0.69px;
+  line-height: 40px;
+  position: absolute;
+  top: 474px;
+  width: 720px;
+}
+.lp .text-2 {
+  height: 129px;
+  left: 348px;
+  letter-spacing: 0.20px;
+  line-height: 22px;
+  position: absolute;
+  top: 110px;
+  width: 230px;
+}
+.lp .text-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 16.86px;
+  margin-left: 25px;
+  min-height: 17px;
+  min-width: 5px;
+  white-space: nowrap;
+}
+.lp .text-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 16.86px;
+  margin-left: 34px;
+  min-height: 17px;
+  min-width: 5px;
+  white-space: nowrap;
+}
+.lp .text-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 16.86px;
+  margin-left: 30px;
+  min-height: 17px;
+  min-width: 5px;
+  white-space: nowrap;
+}
+.lp .text-6 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.5px;
+  margin-left: 15px;
+  min-height: 17px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+.lp .text-7 {
+  color: var(--white);
+  font-family: var(--font-family-rota-black);
+  font-size: 100px;
+  font-weight: 900;
+  left: 278px;
+  letter-spacing: 1.00px;
+  line-height: 120.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2019px;
+  white-space: nowrap;
+}
+.lp .text-8 {
+  color: var(--white);
+  font-family: var(--font-family-rota-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0.32px;
+  line-height: 13px;
+  margin-top: 4px;
+  min-height: 18px;
+  min-width: 187px;
+  white-space: nowrap;
+}
+.lp .text-9 {
+  height: 99px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-top: 4px;
+  min-height: 99px;
+  min-width: 160px;
+  text-align: center;
+  width: 160px;
+}
