@@ -514,7 +514,14 @@
   top: 0;
   width: 22px;
 }
-
+.lp .WhitePhone_X {
+  height: 1218px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1760px;
+}
 .lp-1920 .phone {
   align-items: center;
   display: flex;
