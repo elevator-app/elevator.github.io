@@ -50,10 +50,10 @@
   box-sizing: border-box;
 }
 .container-center-horizontal {
-  pointer-events: none;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
+  pointer-events: none;
   width: 100%;
 }
 .container-center-horizontal > * {
