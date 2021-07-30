@@ -53,7 +53,7 @@
   pointer-events: none;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   width: 100%;
 }
 .container-center-horizontal > * {
