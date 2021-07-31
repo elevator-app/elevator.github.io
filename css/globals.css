@@ -53,7 +53,7 @@
   pointer-events: none;
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   width: 100%;
 }
 .container-center-horizontal > * {
@@ -63,27 +63,4 @@
 .screen a {
   text-decoration: none;
   display: contents;
-}
-.smart-layers-pointers,
-.smart-layers-pointers * {
-  pointer-events: auto;
-  visibility: visible;
-}
-.screen textarea:focus,
-.screen input:focus {
-  outline: none;
-}
-
-.screen * {
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
-
-.screen div {
-  -webkit-text-size-adjust: none;
-}
-
-.screen a {
-  display: contents;
-  text-decoration: none;
 }
