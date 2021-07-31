@@ -2,6 +2,7 @@
 
 .lp-1920 {
   align-items: flex-start;
+    justify-content: flex-start;
   background-color: var(--white);
   /* border: 1px solid #707070; */ 
   display: flex;
@@ -9,6 +10,7 @@
   height: 3015px;
   overflow: hidden;
   width: 100%;
+  
 }
 
 .lp-1920 .overlap-group2 {
