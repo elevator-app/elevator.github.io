@@ -1,77 +1,66 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @font-face {
   font-family: "Rota-Medium";
   font-style: normal;
   font-weight: 500;
-  src: url("../fonts/Rota-Medium.otf") format("opentype");
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60b28310a835de67819e629f/fonts/rota-medium.otf")
+    format("opentype");
 }
-@font-face {
-  font-family: "Rota-Black";
-  font-style: normal;
-  font-weight: 900;
-  src: url("../fonts/Rota-Black.otf") format("opentype");
-}
-@font-face {
-  font-family: "Rota-ExtraBlack";
-  font-style: normal;
-  font-weight: 950;
-  src: url("../fonts/Rota-ExtraBlack.otf") format("opentype");
-}
-@font-face {
-  font-family: "Rota-Bold";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/Rota-Bold.otf") format("opentype");
-}
-@font-face {
-  font-family: "Rota-SemiBold";
-  font-style: normal;
-  font-weight: 600;
-  src: url("../fonts/Rota-SemiBold.otf") format("opentype");
-}
+
 @font-face {
   font-family: "Arial-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Arial.ttf") format("truetype");
-}
-.screen textarea:focus,
-.screen input:focus {
-  outline: none;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
 }
 
-.screen * {
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
+@font-face {
+  font-family: "Rota-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60b28310a835de67819e629f/fonts/rota-bold.otf")
+    format("opentype");
 }
 
-.screen div {
-  -webkit-text-size-adjust: none;
+@font-face {
+  font-family: "Rota-ExtraBlack";
+  font-style: normal;
+  font-weight: 950;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60b28310a835de67819e629f/fonts/rota-extrablack.otf")
+    format("opentype");
 }
 
-.screen a {
-  display: contents;
-  text-decoration: none;
+@font-face {
+  font-family: "Rota-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60b28310a835de67819e629f/fonts/rota-semibold.otf")
+    format("opentype");
 }
 
-.container-center-horizontal {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  pointer-events: none;
-  width: 100%;
-}
-
-.container-center-horizontal > * {
-  flex-shrink: 0;
-  pointer-events: auto;
-}
-
-.smart-layers-pointers,
-.smart-layers-pointers * {
-  pointer-events: auto;
-  visibility: visible;
+@font-face {
+  font-family: "Rota-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60b28310a835de67819e629f/fonts/rota-black.otf")
+    format("opentype");
 }
 
 * {
   box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
 }
