@@ -53,7 +53,7 @@
   pointer-events: none;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   width: 100%;
 }
 .container-center-horizontal > * {
@@ -63,4 +63,9 @@
 .screen a {
   text-decoration: none;
   display: contents;
+}
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
 }
